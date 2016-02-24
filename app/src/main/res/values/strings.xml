@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">霸記</string>
+    <string name="all">全部</string>
+    <string name="createnote">創建計劃</string>
+    <string name="closedrawer">關閉菜單</string>
+    <string name="favorites">關注的</string>
+    <string name="notes">計劃</string>
+    <string name="opendrawer">打開菜單</string>
+    <string name="photo">圖片</string>
+    <string name="recording">重複</string>
+    <string name="refresh">刷新</string>
+    <string name="reminder">提醒</string>
+    <string name="search">搜索</string>
+    <string name="shared">分享</string>
+    <string name="sheet_item_pressed">點擊</string>
+    <string name="snackbar_shared_msg">Gordon Wong shared a note with you.</string>
+    <string name="view">View</string>
+
+</resources>
